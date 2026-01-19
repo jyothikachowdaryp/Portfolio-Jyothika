@@ -47,7 +47,7 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-             href="/JYothika_Resume.pdf"
+             href="./JYothika_Resume.pdf"
              target="_blank"
              rel="noopener noreferrer"
              className="px-6 py-2 rounded-full border border-purple-500 text-purple-400 hover:bg-purple-500 hover:text-white transition-all text-sm font-bold"
@@ -91,7 +91,7 @@ const Navbar = () => {
                 </Link>
               ))}
               <a
-                 href="/JYothika_Resume.pdf"
+                 href="./JYothika_Resume.pdf"
                  target="_blank"
                  rel="noopener noreferrer"
                  className="px-8 py-3 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold"
